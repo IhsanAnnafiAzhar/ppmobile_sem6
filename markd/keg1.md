@@ -64,8 +64,8 @@ Berdasarkan pengamatanmu, maka lakukan pemfaktoran berikut dan tentukan akar-aka
   Didapat $b=1$ dan $c=-6$, sehingga harus dicari bilangan $p$ dan $q$ sedemikian sehingga $p+q=1$ dan $pq=-6$. Dalam hal ini dilihat syarat $pq=-6$ terlebih dahulu, sehingga pasangan nilai $p$ dan $q$ yang mungkin adalah:
   | $p$ | $q$ | $pq$ | $p+q$ |
   | ---- | ---- | --- | ---- |
-  | $1$ | $6$ | $-6$ | 7 |
-  | $2$ | $3$ | $-6$ | 5 |
+  | $1$ | $6$ | $-6$ | $7$ |
+  | $2$ | $3$ | $-6$ | $5$ |
   | $3$ | $\dots$ | $-6$ | $\dots$ |
   | $6$ | $\dots$ | $-6$ | $\dots$ |
   | $-1$ | $\dots$ | $-6$ | $\dots$ |
@@ -81,8 +81,8 @@ Berdasarkan pengamatanmu, maka lakukan pemfaktoran berikut dan tentukan akar-aka
   Didapat $b=-1$ dan $c=-6$, sehingga harus dicari bilangan $p$ dan $q$ sedemikian sehingga $p+q=-1$ dan $pq=-6$. Dalam hal ini dilihat syarat $pq=-6$ terlebih dahulu, sehingga pasangan nilai $p$ dan $q$ yang mungkin adalah:
   | $p$ | $q$ | $pq$ | $p+q$ |
   | ---- | ---- | --- | ---- |
-  | $1$ | $6$ | $-6$ | 7 |
-  | $2$ | $3$ | $-6$ | 5 |
+  | $1$ | $6$ | $-6$ | $7$ |
+  | $2$ | $3$ | $-6$ | $5$ |
   | $3$ | $\dots$ | $-6$ | $\dots$ |
   | $6$ | $\dots$ | $-6$ | $\dots$ |
   | $-1$ | $\dots$ | $-6$ | $\dots$ |

@@ -62,3 +62,31 @@ $(x - 1)(x - 14) = 0$
 $x -1 = 0$ atau $x - 14 = 0$
 $x_1 = 1$ atau $x_2 = 14$
 Jadi, himpunan penyelesaiannya adalah $\{1, 14\}$
+
+#### Contoh 2 Menentukan Akar Persamaan Kuadrat dengan Melengkapi Kuadrat Sempurna
+
+Tentukan akar-akar penyelesaian dari bentuk $2x^2 + 7x + 3$.
+
+T H E S Y M B O L
+
+Jadi, himpunan penyelesaiannya adalah $\big\{-\frac{1}{2},-3\big\}$
+
+#### Contoh 3 Menentukan Akar Persamaan Kuadrat dengan Rumus Kuadratik (Rumus ABC)
+
+Tentukan akar-akar penyelesaian dari bentuk $2x^2+7x+3$
+**Alternatif Penyelesaian**
+$$x_{1,2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}=\frac{-7\pm\sqrt{7^2-4\cdot2\cdot3}}{2\cdot2}=\frac{-7\pm5}{4}$$
+Jadi, $x_1=-\frac{1}{2}$ dan $x_2=-3$
+
+#### Contoh 4 Aplikasi persamaan Kuadrat
+
+Keliling suatu taman kota yang berbentuk persegi panjang adalah 90 $m$. Jika luas taman 450 $m^2$, berapa panjang dan lebarnya?
+**Alternatif Pemecahan Masalah**
+Misalkan panjang = $p$
+panjang + lebar = $\frac{1}{2}$ keliling
+lebar = 45 – $p$
+Persamaan : panjang $\times$ lebar = luas
+
+T H E S Y M B O L
+
+$$e \\\///// e$$
