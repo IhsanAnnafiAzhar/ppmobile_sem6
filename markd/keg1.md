@@ -9,16 +9,16 @@ Salah satu cara untuk menentukan akar persamaan kuadrtat adalah dengan cara memf
     <tbody>
         <tr>
             <td ><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/xx%2B2.png" alt="drawing" height="17" /> <br>atau<br><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/xx%2B2.png" alt="drawing" height="17" /></td>
-            <td ><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/x%2B1x%2B4.png" alt="drawing" height="55" /><br>atau <br>  $(x+1)(x+4)=x^2+5x+4$</td>
-            <td ><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/3x-4x%2B3.png" alt="drawing" height="55" /><br>atau<br>$(3x-4)(x+3)=3x^2+5x-12$</td>
+            <td ><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/x%2B1x%2B4.png" alt="drawing" height="55" /><br>atau <br>  <img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/xp1xp4.png" alt="drawing" height="17"></td>
+            <td ><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/3x-4x%2B3.png" alt="drawing" height="55" /><br>atau<br><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/3xm4xp3.png" alt="drawing" height="17" /></td>
         </tr>          
 <tr>
 <td colspan=3><p style="text-align:center"> Bagaimana jika sebaliknya (dari kanan ke kiri)?</p></td>
 </tr>
 <tr>
-            <td > $x^2+2x-x(x+2)$ </td>
-            <td >$x^2+5x+4=(x+1)(x+4)$</td>
-            <td >$3x^2+5x-12=(3x-4)(x+3)$</td>
+            <td ><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/3xm4xp3.png" alt="drawing" height="17" /> </td>
+            <td ><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/x2p5xp4.png" alt="drawing" height="17" /></td>
+            <td ><img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/3x2p5xm12.png" alt="drawing" height="17" /></td>
         </tr>          
 <tr>
 <td colspan=3><p style="text-align:center">Bentuk seperti ini disebut dengan "memfaktorkan"</p></td>
@@ -27,8 +27,8 @@ Salah satu cara untuk menentukan akar persamaan kuadrtat adalah dengan cara memf
 </table>
 
 Dengan memfaktorkan persamaan kuadrat, dapat ditentukan akar-akarnya, yaitu
-<img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/x25x4.png" alt="drawing" height="45" />
-<img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/x10.png" alt="drawing" height="15" /> atau $x=-4$
+<img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/x25x4.png" alt="drawing" height="39" />
+<img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/x10.png" alt="drawing" height="12" /> atau <img src="https://raw.githubusercontent.com/IhsanAnnafiAzhar/ppmobile_sem6/main/equation/3xm4xp3.png" alt="drawing" height="17" />
 Jadi akar-akarnya adalah $-1$ dan $-4$
 
 #### Ayo Kita Amati
